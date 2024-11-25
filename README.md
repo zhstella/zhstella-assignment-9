@@ -4,6 +4,8 @@
 
 Demo: https://youtu.be/Aoa2CWb9Bgc
 
+Sorry for the late demo link. I didn't notice that demo file is too big so it wasn't uploaded on github succesfully before.
+
 In this assignment, you will implement and analyze a simple neural network by visualizing its learned features, decision boundary, and gradients. The goal is to develop a deeper understanding of how a Feedforward Neural Network with one hidden layer operates and represents the input space during learning.
 
 ## Task Overview
